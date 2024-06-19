@@ -3,7 +3,7 @@ class CustomHeader extends HTMLElement {
         this.innerHTML = `
         <div class="navbar">
             <ul>
-                <li><a href="./home.html">Acceuil</a></li>
+                <li><a href="./home.html">Accueil</a></li>
                 <li><a href="#history">Histoire de la casserole</a></li>
                 <li><a href="">2</a></li>
                 <li><a href="">3</a></li>
