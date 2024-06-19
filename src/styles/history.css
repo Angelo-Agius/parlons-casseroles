@@ -1,0 +1,17 @@
+@font-face {
+    font-family: "Noto-Sans";
+    src: url(../assets/fonts/NotoSans-Regular.ttf);
+}
+
+* {
+    font-family: "Noto-Sans", sans-serif;
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #303030;
+    color: white;
+    text-align: center;
+}
